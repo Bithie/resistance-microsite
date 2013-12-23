@@ -1,0 +1,10 @@
+/* Developer */
+	Design, Code: Maik Wendelken
+	Contact: maik.wendelken@gmail.com
+	From: Erding, Germany
+
+/* SITE */
+	Last update: 2013-11-30
+	Language: German
+	Doctype: HTML5
+	IDE: Fireworks CS 5, phpDesigner 8

@@ -1,0 +1,113 @@
+/* =Typography
+-----------------------------------------------------------------------------*/
+body {
+    background-color: #3D3D3D;
+    background: #3D3D3D url(../img/bg1.jpg) left top fixed no-repeat;
+}
+
+/* =Links
+-----------------------------------------------------------------------------*/
+
+
+/* =Layout
+-----------------------------------------------------------------------------*/
+.margin30top {
+    margin-top: 30px;
+}
+
+.unit-80 {
+    border: 1px solid #00ADEF; /* Resistance Color */
+    padding: 10px;
+}
+
+.whitebg {background-color: #FFFFFF;}
+
+.codeword {
+  color:#ff00ff;
+}
+
+/* =Header
+-----------------------------------------------------------------------------*/
+.logo {
+    float: left;
+    margin: 0 20px 40px 0;
+}
+
+.header {
+    min-height: 210px!important;
+}
+
+
+/* =Nav
+-----------------------------------------------------------------------------*/
+
+
+/* =Tables
+-----------------------------------------------------------------------------*/
+table.tablesorter {
+	background-color: #CDCDCD;
+	margin:10px 0pt 15px;
+	font-size: 9pt;
+	width: 100%;
+	text-align: left;
+}
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: #e6EEEE;
+	border: 1px solid #FFF;
+	font-size: 10pt;
+    font-family: 'Open Sans', sans-serif;
+	padding: 4px 10px 4px 4px;
+}
+table.tablesorter thead tr .header {
+	background-image: url(../img/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+table.tablesorter tbody tr.odd td {
+	background-color:#F0F0F6;
+}
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(../img/asc.gif);
+}
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(../img/desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+background-color: #8dbdd8;
+}
+
+/* =Misc
+-----------------------------------------------------------------------------*/
+
+
+/* =Footer
+-----------------------------------------------------------------------------*/
+#back-top {
+    bottom: 30px;
+    display: block;
+    right:0;
+    position: fixed;
+    z-index: 115;
+}
+#back-top span {
+    background-image: url("../img/topbtn.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+#back-top span:hover {
+    background-image: url("../img/topbtnon.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 30px;
+    width: 30px;
+}
