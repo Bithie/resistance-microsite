@@ -14,6 +14,7 @@ Was enthält dieses Paket?
 - [phpMailer](https://github.com/PHPMailer/PHPMailer)
 - [Elastislide – A Responsive jQuery Carousel Plugin](http://tympanus.net/codrops/2011/09/12/elastislide-responsive-carousel/) 
 - [Modernizer](http://modernizr.com/)
+- [DummyImages](http://dummy-image-generator.com/)
 
 Funktionsfähige Version für die Resistance Munich unter [http://resmuc.dev-planet.de](http://resmuc.dev-planet.de) (**kein Demo!**)
 
